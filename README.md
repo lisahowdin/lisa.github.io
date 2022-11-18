@@ -36,7 +36,7 @@ In the future, machine learning and artificial intelligence may be used at scale
 There will always be a role for testing to ensure that quality is ingrained in software and business process development.
 
 
-See if you have the skills, and how to upskill, to be a <a href="https://apsprofessions.gov.au/blogs/lisa-howdin/2022/10/09/a-day-in-the-life-of-a-test-manager">Test Manager</a>.
+See if you have the skills, and how to upskill, to be a <a href="https://github.com/lisahowdin/lisa.github.io/blob/main/PA">PA</a>.
 
 All views expressed in this blog are personal views of the author and subject, and do not necessarily reflect the view of the department or agency.
 
