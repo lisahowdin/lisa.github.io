@@ -1,0 +1,29 @@
+<title> Principal Architect</title>
+As part of our work to define digital career pathways, we asked digital professionals and members of the Digital Profession Stream to provide a short ‘day in the life’ story about their role. Paul shares a day in the life of a Principal Enterprise Architect.  
+
+<h2>A varied background and skillset </h2>  
+I didn’t get straight into architecture. I started as a design developer and then got into solution design work in technology, programming and infrastructure. I then got into contract and project management and came back to being a solution architect. I then progressed into enterprise architecture.   
+
+A conceptual world  
+When you talk about solution design, you are looking at things at a physical level. With solution architecture, you’re looking at things at a logical level. When you get to enterprise architecture, it’s a more conceptual world. So, as an example, conceptually, we would be talking about an Enterprise Resource Management system. In contrast, at a logical level we would talk about SAP, HR, SAP ECC and SAP ERP . And at the design level, you’re talking about technologies like Netweaver programming. You’are going from a very detailed physical world up to a conceptual one, which involves modelling and being able to express ideas and talk to other people.   
+
+A high-level view of systems  
+As Lead Enterprise Architect, I have a good, high-level view of all the technology and business applications needed for my agency. To capture this architecture, we have a framework called the business capability model, which contains a number of business capabilities. We have business applications for each business capability, and for each business application, we have our current technology and the technology we want to use (our target).   
+
+For example, take our human resource system, which is a business capability. For this capability, we currently use Aurion, a technology provided by the department. But the whole-of-government requirement is that we move to Gov ERP. That means that Gov ERP is our target.   
+
+Getting from A to B  
+To move from our current technology to our target, we need to design a roadmap and this is where the Lead Enterprise Architect plays a critical role. To create the road map, we have an architectural guidance framework that helps define the target and what it will look like. In the example of changing technologies, the Lead Enterprise Architect ensures that the legal and IT security teams have input and are across the detail. They  also ensure that the technology is supported internally. Essentially, we make sure that all the subject matter experts impacted by the change understand the change and agree with the change. That’s what governance is.  
+
+Shaping solutions for a modern workplace  
+In our agency, we administer intellectual property transactions, trademarks, designs and maintenance. We had an old transactional portal system from the early 2000s that we wanted to upgrade. I was there at the enterprise level, saying this is what we want this thing to look like and the outcome we want.  
+
+As part of our research, our team looked around the world to see what others were doing. What does Amazon do? What does Google do? We discovered that they all use APIs and marketing services. This research informed our strategic decision-making about changing our transactional portal, and we decided to upgrade our technology by building the portal in AWS (Amazon Web Services). The solution architects were then able to design the solution. The project was successful, and our stakeholders loved the results.
+
+
+See if you have the skills to be and how to upskill to be a Principal Enterprise Architect.
+
+
+All views expressed in this blog are the author's personal views, and do not necessarily reflect the view of the department or agency.
+
+This profile was written by Christina Kumar for the APSC whilst on a secondment from the AFSA. Lisa Howdin is a Skills Capability Architect with the APSC.
